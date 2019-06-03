@@ -1,0 +1,379 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width:100%;
+  height:100%;
+  text-align:center;
+  background-color:#000;
+  background-position:50% 0;
+  background-repeat:no-repeat;
+  background-image:url('../images/logo.jpg');  
+}
+  
+body,html,table {
+  font-size:12px;
+  line-height:150%;
+  font-family:Tahoma,sans-serif;
+  color: #fff; 
+}
+
+h1,h2,h3,h4,h5,h6 {
+  text-align:left;
+  margin: 0;
+  padding: 30px 0 30px 0; 
+  font-family:"Trebuchet MS",sans-serif;
+  clear:both; 
+}
+
+h1 {
+  font-size:30px; 
+}
+
+h2 {
+  font-size:30px;
+}
+
+h3 {
+  font-size:20px;
+  padding: 10px 0 0 0;
+  border-bottom: 1px solid black;
+}
+
+h4 {
+  font-size:16px;
+}
+
+h5 {
+  font-size:14px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+
+h6 {
+  font-size:12px;
+}
+
+p {
+  margin: 0;
+  padding: 5px 0 5px 0;
+}
+  
+.k p {
+	padding: 0px;
+}
+
+.k {
+	padding: 5px 0 5px 0;
+}
+	
+div {
+  display:block;
+  margin: 0;
+  padding: 0; 
+  text-align:left; 
+}
+
+a span {
+  cursor:pointer;
+}
+
+a {
+	color: #d0d0d0;
+	text-decoration: underline;
+}
+
+a:hover {
+  color:#d6f1f5;
+  text-decoration:underline;
+}
+  
+ul {
+  margin:0;
+  padding: 0px 10px 10px 32px; 
+  list-style-type:disc;
+}
+
+.container {
+  width:950px;
+  height:100%;
+  margin: 0 auto 0 auto;
+}
+
+.clear {
+  clear:both;
+}
+  
+
+#logo, #topMenu, #main, #footer {
+  float:left;
+  clear:both;
+  width:950px;
+}
+  
+#logo {
+  position:relative;
+  height:130px;
+  font-family:"Trebuchet MS",sans-serif;
+}
+ 
+#logo #firstLine {
+	display:block;
+	position: absolute;
+	bottom:32px;
+	right:0;
+	padding: 0;
+	margin:0;
+	width:500px;
+	line-height:100%;
+	font-size:86px;
+	text-align:right;
+}
+
+#logo #secondLine {
+	color: #d0d0d0;
+	display:block;
+	position: absolute;
+	bottom:5px;
+	right:0;
+	padding: 0;
+	margin:0;
+	width:500px;
+	line-height:100%;
+	font-size:20px;
+	text-align:right;
+}
+
+#socialNetworking {
+	float: right;	
+}
+
+#socialNetworking a {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#socialNetworking img {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+#topMenu {
+  margin: 0 0 2px 0;
+  background-color:#23485e;
+  float:left;
+  clear:none;
+  height:50px;
+}
+
+#topMenu ul {
+  display: block;
+  float:left;
+  clear:none;
+  margin: 0;
+  padding: 10px 0 0 0; 
+  width: 900px;
+  list-style:none;
+  font-weight:bold;
+  font-size:13px;
+}
+
+#topMenu ul li {
+  display: block;
+  float:left;
+  clear:none;
+  margin: 0;
+  padding: 0 10px 0 10px;
+  height:30px;
+  line-height:30px;
+}
+
+#topMenu ul li a {
+  text-decoration: none;
+}
+
+#topMenu ul li a:hover {
+  text-decoration: underline;
+}
+
+
+#main {
+  margin: 2px 0 2px 0; 
+}
+  
+#main .leftMenu {
+  float:left;
+  clear:none; 
+  width:194px; 
+  padding: 0;
+  margin-right: 5px;
+  background-color: #0a151c;
+}
+
+#main .leftMenu .right {
+  float:right;
+}
+
+#main .leftMenu .title {
+	font-weight: bold;
+	font-size: 20px;
+  	text-align:center;
+	margin-right: 5px;
+  	padding: 15px 0 15px 0; 
+	font-family:"Trebuchet MS",sans-serif;
+	border-bottom: 1px solid black;
+	clear:both; 
+	width:194px;
+	background-color: #12222b; 
+}
+  
+#main .leftMenu ul {
+  display: block;
+  float:left;
+  clear:both;
+  margin: 0;
+  padding: 20px 0;
+  width:194px;
+  list-style-position:inside; 
+  list-style-type:disc;
+}
+
+#main .leftMenu ul li {
+  padding: 0 20px;
+}
+
+#main .leftMenu div.hr {
+  position: relative;
+  left:10px;
+  clear:both;
+  width: 176px;
+  padding: 10px 0;
+} 
+
+#main .content {
+  float:left;
+  position: relative;
+  clear:none;
+  margin:0;
+  background-color: #0a151c;
+}
+
+#main .one_column {
+	width: 950px;
+}
+
+#main .two_columns {
+	width: 740px;
+}
+
+#main .content .content_top {
+  float:left;
+  clear:both;
+  height:30px;
+}
+
+#main .content .content_bottom {
+  float:left;
+  clear:both;
+  width:740px;
+  height:10px;
+}
+  
+ 
+#main .content h4 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: #f0f00f;	
+}
+
+#main .content .document {
+	clear: both;
+}
+
+#main .content .document_label {
+	float: left;
+	width: 450px;
+	display: block;	
+}
+
+#main .content .document_link {
+	display: block;
+}
+
+#main .content .top {
+  float: right;	
+}
+  
+#main .label {
+	float: left;
+	width: 180px;	
+}
+
+#main p,#main h1,#main h2,#main h3,#main h4,#main h5,#main h6 {
+  padding-left: 20px; 
+  padding-right: 20px;
+}
+
+#main .mapInfo {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;	
+	margin-bottom: 0px;
+}
+
+#main .mapSource {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;	
+	margin-bottom: 0px;
+	float: right;
+}
+
+#main .sprawdzic {
+	color: #808080;
+	font-size: 10px;	
+}
+
+#footer {
+  	margin: 5px 0 20px 0;
+	background-color: #12222b; 
+}
+  
+#footer ul {
+  display: block;
+  float: left;
+  clear: left;
+  margin:0;
+  padding: 30px 0 50px 0;
+  width:950px;
+  text-align: center;
+  list-style:none;
+  font-weight:bold;
+  font-size:13px;   
+}
+  
+#footer ul li {
+  display: inline;
+  padding: 0 20px 0 20px;
+}
+  
+#footer ul li a {
+  text-decoration: none;
+}
+  
+#footer ul li a:hover {
+  text-decoration: none;
+}    
+
+#stat4u {
+	float: right;
+	display: block;
+	top: -22px;
+	height: 5px;
+	position: relative;
+}

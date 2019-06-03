@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>Gdańsk Kiełpinek</title>
+<description>Nowości na stronie Kiełpinka</description>
+<link>http://kielpinek.gdansk.pl/</link>
+<lastBuildDate>Sun, 2 Apr 2011 11:53:00 -0200</lastBuildDate>
+<pubDate>Sat, 2 Apr 2011 11:53:00 -0200</pubDate>
+
+<item>
+<title>Utworzenie strony</title>
+<description>Strona Kiełpinka została utworzona.</description>
+<link>http://kielpinek.gdansk.pl/</link>
+<pubDate>Sat, 2 Apr 2011 11:53:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Dodanie galerii zimowych zdjęć Kiełpinka</title>
+<description>Utworzona została galeria zdjęć wykonanych 25 marca na ulicy Szczęśliwej.</description>
+<link>https://picasaweb.google.com/105446382761862442476/KiePinekZima#</link>
+<pubDate>Sun, 10 Apr 2011 11:53:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Nowy dział: podobne strony</title>
+<description>Utworzony został nowy dział zawierający linki do stron o podobnej tematyce, dotyczących innych gdańskich dzielnic i osiedli. Na razie dział zawiera jeden samotny link do strony o Szadółkach.</description>
+<link>http://kielpinek.gdansk.pl/podobne_strony.php</link>
+<pubDate>Sun, 27 Apr 2011 22:01:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Nowy dział: dokumenty</title>
+<description>Utworzony został nowy dział zawierający zeskanowane dokumenty dotyczące Kiełpinka. Na razie zawiera tylko pismo z Wydziału Geodezji UM Gdańsk w sprawie zmiany numeracji budynków przy ulicy Szczęśliwej
+w 1998 roku oraz skan planu okolic Femaxu z 1994 roku.</description>
+<link>http://kielpinek.gdansk.pl/dokumenty.php</link>
+<pubDate>Sun, 8 May 2011 7:20:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Uporządkowanie działu: Historia</title>
+<description>Uzupełniony i uporządkowany został dział zawierający historię Kiełpinka.</description>
+<link>http://kielpinek.gdansk.pl/historia.php</link>
+<pubDate>Thu, 7 Jul 2011 22:00:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Podobne strony: Gdańsk Piecki</title>
+<description>W dziale zawierającym linki do stron o podobnej tematyce dodano link do strony o Pieckach.</description>
+<link>http://kielpinek.gdansk.pl/podobne_strony.php</link>
+<pubDate>Fri, 22 Jul 2011 20:06:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Uzupełnienie działu: Informacje podstawowe</title>
+<description>W dziale zawierającym informacje podstawowe dodano dane dotyczące powierzchni, liczby ludności oraz granic administracyjnych Kiełpinka.</description>
+<link>http://kielpinek.gdansk.pl/informacje_podstawowe.php</link>
+<pubDate>Fri, 22 Jul 2011 22:05:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Nowa sekcja: Koncepcje urbanistyczne</title>
+<description>W dziale Historia dodano sekcję opisującą dokumenty dotyczące zagospodarowania przestrzennego Kiełpinka.</description>
+<link>http://kielpinek.gdansk.pl/historia.php#koncepcje_urbanistyczne</link>
+<pubDate>Fri, 22 Jul 2011 22:06:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Uzupełnienie działu: Historia/Kalendarium</title>
+<description>W sekcji Kalendarium działu Historia dodano kilka najnowszych wydarzeń: pierwsze wybory do Rady Osiedla Jasień, ukończenie budowy trasy W-Z oraz powstanie
+Stowarzyszenia Wiszące Ogrody.</description>
+<link>http://kielpinek.gdansk.pl/historia.php#kalendarium</link>
+<pubDate>Sat, 3 Mar 2012 07:30:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Uzupełnienie działu: Historia/Kalendarium oraz dodanie linków do kilku stron o podobnej tematyce</title>
+<description>W sekcji Kalendarium działu Historia dodano informację o otworzeniu Węzła Karczemki. W sekcji Podobne strony dodano linki do 
+stron na temat Brzeźna, Oliwy, Orunii i Wrzeszcza.</description>
+<link>http://www.kielpinek.gdansk.pl/podobne_strony.php</link>
+<pubDate>Sat, 7 Jul 2012 07:30:00 -0200</pubDate>
+</item>
+
+<item>
+<title>Uzupełnienie działu: Dokumenty</title>
+<description>W dziale Dokumenty dodano skan wzmianki o pożarze w 1932 r. z Gazety Gdańskiej oraz opowiadanie z książki F. Lorentza.</description>
+<link>http://www.kielpinek.gdansk.pl/dokumenty.php</link>
+<pubDate>Sat, 17 Nov 2012 09:20:00 -0200</pubDate>
+</item>
+
+</channel>
+</rss>
